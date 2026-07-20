@@ -45,13 +45,16 @@ const muhammadFaheem = {
 
 ### 📊 GitHub Stats
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faheemkhan112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1c8a7d&icon_color=1c8a7d&text_color=c9d1d9" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheemkhan112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1c8a7d&text_color=c9d1d9" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faheemkhan112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1c8a7d&icon_color=1c8a7d&text_color=c9d1d9" width="48%"/>
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=faheemkhan112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1c8a7d&text_color=c9d1d9" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=faheemkhan112&theme=tokyonight&hide_border=true&background=0d1117&ring=1c8a7d&fire=1c8a7d&currStreakLabel=1c8a7d" />
+  <img src="https://streak-stats.demolab.com/?user=faheemkhan112&theme=tokyonight&hide_border=true&background=0d1117&ring=1c8a7d&fire=1c8a7d&currStreakLabel=1c8a7d"/>
 </p>
 
 ---
