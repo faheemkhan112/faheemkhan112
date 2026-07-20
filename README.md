@@ -67,7 +67,7 @@ const muhammadFaheem = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-faheem-08a586261/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:muhammad441mf@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>💡 Open to Associate Software Engineer, Junior Developer, and freelance opportunities.</i></p>
